@@ -1124,33 +1124,38 @@ Passively reduces the accuracy and damage done by enemy homing missiles, includi
 Passively reduces the accuracy and damage done by enemy homing missiles, including those used against armies and combat engineers."
 
 
-///////Stealth Technology
-"Stealth_Technology_NAME" LANG "Stealth Technology"
-"Stealth_Technology_DESC" LANG "Although the concept of 'stealth' in the traditional sense greatly predates human history, in the recent military context, it refers to a suite of features that render an object or a system difficult to observe or track using conventional methods like radar or thermal imaging. Stealth technology generally relies on radar-absorbing material, a distorting profile that minimizes radar returns and a number of other features designed to stop the object in question from reflecting radar and revealing its position. In military applications, this has obvious benefits as it makes the user much more difficult to find and destroy, and ensures they can keep the element of surprise for much longer.
-Basic stealth technology is a prerequisite to build stealth bombers and 5th generation aircraft."
+///////Стелс технология ::Stealth Technology
+"Stealth_Technology_NAME" LANG "`Стелс` технология"
+"Stealth_Technology_DESC" LANG "понятие «стелс» в традиционном смысле возникло еще в рании истории человечества, в современном военном контексте оно обозначает набор характеристик, которые делают объект или систему труднодоступными для отслеживания с помощью обычных методов, таких как радар или тепловизор. Технология «стелс», как правило, основана на использовании материала, поглощающего радиолокационные лучи. искажающий профиль, который минимизирует радиолокационное излучение, и ряд других особенностей. других элементов, призванных не дать объекту отразить радиолокационный сигнал и раскрыть его местоположение. В военных целях это имеет очевидные преимущества, поскольку значительно усложняет поиск и уничтожение устройства, и позволяет дольше сохранять элемент неожиданности. 
 
-"Novel_Stealth_Applications_NAME" LANG "Novel Stealth Applications"
-"Novel_Stealth_Applications_DESC" LANG "Although it made its debut on combat aircraft, stealth technology has many potential military applications for both offensive and defencive purposes. Stealth technology can be applied to satellites and naval vessels in order to make them harder to detect and engage, which can be a huge advantage in avoiding unwanted encounters or making the first strike, both of which are crucial in the environments they operate in.
-Satellites gain stealth characteristics and are now harder to detect. Allows for the development of cutting-edge stealth warships."
+Базовые Стелс-технологии являются необходимым условием для создания Стелс-бомбардировщиков и самолетов 5-го поколения."
 
-"Advanced_Stealth_NAME" LANG "Advanced Stealth"
-"Advanced_Stealth_DESC" LANG "Improvements in material science and engineering will make it possible to develop stealth technology even further, and also solve some of the shortcomings and trade-offs that earlier stealth designs had, though the exact details are closely guarded secrets. Systems that can take advantage of these advancements can expect to be even more difficult to detect, and by extension, easier to protect and more dangerous when on the attack.
-Improves the stealth characteristics of satellites and experimental warships, and allows for the development of 6th generation aircraft designs."
+"Novel_Stealth_Applications_NAME" LANG "Корабельные `Стелс` решения"
+"Novel_Stealth_Applications_DESC" LANG "Несмотря на то, что технология стелс дебютировала на боевых самолетах, она имеет множество потенциальных военных применений как в наступательных, так и в оборонительных целях. Технология «стелс» может применяться к спутникам и военным кораблям, чтобы сделать их более трудно обнаруживаемыми, что может стать огромным преимуществом для предотвращения нежелательных столкновений или нанесения первого удара, что крайне важно в условиях, в которых они работают.
 
-"Stealth_Weapons_NAME" LANG "Stealth Weaponry"
-"Stealth_Weapons_DESC" LANG "Stealth technology can be applied to missiles, to give their targets less warning of their approach, and therefore less time to react and take the appropriate action. As a result, stealth munitions are considerably harder to successfully evade or intercept, and may occasionally score kills without being noticed at all until they've already destroyed their target. Compared to other systems, weapons that incorporate stealth tend to be expensive and complex, but can actually be more economical against more defensible targets since they are also considerably more likely to take them by surprise, bypass their missile defences and successfully make contact.
-Increases the odds of a variety of missiles successfully hitting their targets, and reduces their odds of being intercepted."
+Спутники приобретают характеристики невидимости, и теперь их сложнее обнаружить. Позволяет разрабатывать новейшие военные корабли-невидимки."
 
-"Improvised_Airbase_NAME" LANG "Improvised Airbases"
-"Improvised_Airbase_DESC" LANG "In the event of a major conventional or nuclear war, military infrastructure such as airbases are likely to be among the first targets to be destroyed. In order to project air power in the absence of proper facilities, provisions can be made to operate aircraft on makeshift runways such as highways or empty fields. Doing so requires specially designed S/VTOL aircraft capable of taking off in such conditions. The first generation of VTOL aircraft were designed specifically with this in mind.
-Improvised airbases can be built quickly, but are only capable of supporting a limited number of multirole aircraft and helicopters."
+"Advanced_Stealth_NAME" LANG "Модернизация `Стелс`"
+"Advanced_Stealth_DESC" LANG "Усовершенствования в области материаловедения и инженерии позволят еще больше развить технологию стелс, а также устранить некоторые недостатки и компромиссы, присущие ранним стелс-конструкциям, хотя точные детали находятся под строгим секретом. Системы, которые смогут воспользоваться этими достижениями, станут еще более трудно обнаруживаемыми, а значит, более защищенными и опасными при нападении. 
 
-"U_Improvised_Airbase_NAME" LANG "Makeshift Airbase"
-"U_Improvised_Airbase_DESC" LANG "An improvised airbase with very limited facilities, which can only support a limited number of multirole fighters and some helicopters. Benefits from being cheap to build and easy to produce in emergencies.
-+ Cheap to build compared to regular air bases.
-+ Hosts multirole fighters and helicopters.
-- Supports a very small number of aircraft.
-- No built-in radar facilities."
+Улучшение стелс-характеристик спутников и экспериментальных военных кораблей, а также возможность разработки самолетов 6-го поколения."
+
+"Stealth_Weapons_NAME" LANG "`Стелс` Воружение"
+"Stealth_Weapons_DESC" LANG "Стелс-технология может быть применена к ракетам, чтобы не дать цели знать о своем приближении, а значит, дать ПРО меньше времени на реакцию, и пуск ракеты. В результате стелс-модификаторы повышают шанс обмана ракеты ПРО. По сравнению с другими системами, оружие, использующее стелс, как правило, дорого и сложно, но в действительности может быть более экономичным против более защищенных целей, поскольку вероятность поражения выше.
+
+Это повышает вероятность успешного поражения целей различными ракетами и снижает вероятность их перехвата."
+
+"Improvised_Airbase_NAME" LANG "Самодельные авиабазы"
+"Improvised_Airbase_DESC" LANG "В случае крупной, обычной или ядерной войны военные объекты инфраструктуры, такие как авиабазы, скорее всего, будут уничтожены одними из первых. Чтобы проецировать воздушную мощь в условиях отсутствия надлежащей инфраструктуры, можно предусмотреть возможность эксплуатации самолетов на импровизированных взлетно-посадочных полосах, таких как шоссе или пустые поля. Для этого необходимы специально разработанные самолеты S/VTOL, способные взлетать в таких условиях. Первое поколение самолетов VTOL было разработано именно с учетом этого.
+
+Импровизированные авиабазы можно построить быстро, но они способны поддерживать лишь ограниченное количество многоцелевых самолетов и вертолетов."
+
+"U_Improvised_Airbase_NAME" LANG "Импровизированная авиабаза"
+"U_Improvised_Airbase_DESC" LANG "Импровизированная авиабаза с очень ограниченными возможностями, способная поддерживать лишь ограниченное количество многоцелевых истребителей и несколько вертолетов. Выгодно отличается дешевизной строительства и легкостью производства в чрезвычайных ситуациях.
++ Дешевизна строительства по сравнению с обычными авиабазами.
++ Хранит многоцелевые истребители и вертолеты.
+- Поддерживает очень небольшое количество самолетов.
+- Нет встроенных радарных установок."
 
 
 
